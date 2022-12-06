@@ -63,7 +63,7 @@ function SignupForm(props) {
     else if(textState==="login")
     {
       setTextState("name");
-      navigate("/signup");
+      navigate("/");
     }
   }
 
