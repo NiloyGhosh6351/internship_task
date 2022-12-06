@@ -1,0 +1,112 @@
+.attendence
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.attendence-head
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.attendence-head__date-head
+{
+    width: 2.7%;
+    height: 19px;
+    margin-top: 79px;
+    margin-left: 12.7%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    border: 1px solid #FFFFFF;
+}
+.attendence-head__user-head
+{
+    width: 8.12%;
+    height: 19px;
+    margin-top: 79px;
+    margin-left: 30.75%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    border: 1px solid #FFFFFF;
+}
+.attendence-head__status-head
+{
+    width: 3.26%;
+    height: 19px;
+    margin-top: 79px;
+    margin-left: 29.65%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.attendence__date
+{
+    width: 5%;
+    height: 18px;
+    margin-top: 46px;
+    margin-left: 12.7%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+    border: 1px solid #FFFFFF;
+    
+
+}
+
+.attendence__user
+{
+    width: 6.45%;
+    height: 18px;
+    margin-top: 46px;
+    margin-left: 28.95%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #222730;
+    border: 1px solid #FFFFFF;
+
+}
+
+.attendence__status
+{
+    width: 3.61%;
+    height: 18px;
+    margin-top: 45px;
+    margin-left: 31.11%;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+    border: 1px solid #FFFFFF;
+
+
+}

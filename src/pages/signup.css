@@ -1,0 +1,51 @@
+.signup
+{
+    width: 100%;
+    min-height: 660px;
+    display: flex;
+    flex-direction: row;
+}
+
+.signuppicture
+{
+    width: 51.38%;
+    display: flex;
+    flex-direction: column;
+}
+.signuppicture__logo
+{
+    width: 164.21px;
+    height: 60px;
+    margin-top: 62px;
+    margin-left:7.5%;
+}
+.signuppicture__picture
+{
+    width: 82.7%;
+    height: 437px;
+    margin-top: -12px;
+    margin-left:17.29%;
+}
+
+.signup__form
+{
+    display: flex;
+    flex-direction: row;
+    width: 48.61%;
+}
+
+
+@media screen and (max-width: 800px) {
+    .signup {
+        flex-wrap: wrap;
+    }
+    .signuppicture
+    {
+        width: 100%;
+    }
+    .signup__form
+    {
+        width: 100%;
+    }
+
+  }
