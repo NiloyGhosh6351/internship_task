@@ -102,6 +102,11 @@
     border-radius: 15px;
     border: none;
 }
+.signupform__button__next:hover
+{
+    cursor: pointer;
+    color: #000000;
+}
 .signupform__button
 {
     width: 100%;
@@ -124,7 +129,11 @@
 
     color: #767676;
 }
-
+.signupform__button__back:hover
+{
+    cursor: pointer;
+    color: #000000;
+}
 
 .signupform__control__account
 {
@@ -158,6 +167,11 @@
 
     color: #1678CB;
 
+}
+.signupform__control__login:hover
+{
+    cursor: pointer;
+    color: #000000;
 }
 .signupform__control
 {
